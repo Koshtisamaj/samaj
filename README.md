@@ -1,0 +1,2 @@
+# samaj
+for samaj
